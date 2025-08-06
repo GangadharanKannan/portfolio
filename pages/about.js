@@ -26,7 +26,7 @@ export default function About(props) {
   return (
     <>
       <Head>
-        <title>{title} // Gangadharan</title>
+        <title>{title} </title>
         <meta content={title} property="og:title" />
         <meta content={description} name="description" />
         <meta content={description} property="og:description" />
